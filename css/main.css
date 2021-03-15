@@ -770,7 +770,7 @@ p {
   background-color: var(--background-team);
 }
 
-.feature-list__titile {
+.feature-list__title {
   margin-bottom: 10px;
   color: var(--page-text);
   font-weight: 700;
